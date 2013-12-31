@@ -1,0 +1,46 @@
+The Original designer of this Library is Cowasaki of the Arduino forums.
+
+The thread devoted to this project is here :-
+http://forum.arduino.cc/index.php?topic=164788.0
+
+Here is Darren's original introduction to this project :-
+
+"DueGUI - Arduino Due Graphical User Interface, UTFT, SDI and Touch library.
+
+DueGUI is a new library combining Henning Karlsen's UTFT and Touch libraries
+each already modified by CTE together with an SPI library from CTE.  The 
+combined library has then been further modified where some parts overlap 
+and for compatibility.
+
+The next stage was to add a complete graphical user interface or GUI.  There
+are some basic drawing and text routines built into UTFT but I wanted 
+something a lot more usable. The DueGUI library works on a set of objects 
+which the user defines on a per page basis and then the library manages 
+these objects."
+
+Since then Darren is busy with other things, but we have his blessing to
+continue development as we see fit.
+
+Ediaz has done much work to extract the UTFT suite of libraries which had
+been embeded, so that further updates by Henning to his wonderful TFT libraries
+will automatically be implented by DUEGUI.
+
+There are problems, this is not a completely working or final library, and any
+help offered by anyone with VARIOUS shields and displays would be most welcome.
+The end result is that this library is intended to work with all types of
+shields and displays as supported by the UTFT libraries by Henning Karlson here :-
+http://www.henningkarlsen.com/electronics/index.php and most people only have
+1 or 2 displays, so you can still help by testing the library on various 
+combinations of shield and display, and post your results on the Arduino forum.
+
+This is NOT my project, I just thought it was time it was hosted somewhere that
+facilitates collaboration, since this has already been suggested/requested a number
+of times previously.
+
+Welcome to everyone, thankyou for any help or input you can provide!!
+
+Regards,
+
+Graham
+
+   

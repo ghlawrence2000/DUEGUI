@@ -1,0 +1,315 @@
+UTFT	KEYWORD1
+UTouch	KEYWORD1
+DueGUI	KEYWORD1
+
+InitTouch	KEYWORD2
+InitGUI		KEYWORD2
+UTouch		KEYWORD2
+SPI_Flash_init	KEYWORD2
+InitLCD		KEYWORD2
+clrScr		KEYWORD2
+fillScr		KEYWORD2
+setColorLong	KEYWORD2
+setBackColorLong	KEYWORD2
+setColor	KEYWORD2
+setBackColor	KEYWORD2
+drawPixel	KEYWORD2
+drawLine	KEYWORD2
+drawRect	KEYWORD2
+drawRoundRect	KEYWORD2
+fillRect	KEYWORD2
+fillRoundRect	KEYWORD2
+drawCircle	KEYWORD2
+fillCircle	KEYWORD2
+print	KEYWORD2
+printNumI	KEYWORD2
+printNumF	KEYWORD2
+setFont	KEYWORD2
+drawBitmap	KEYWORD2
+lcdOff	KEYWORD2
+lcdOn	KEYWORD2
+setContrast	KEYWORD2
+getDisplayXSize	KEYWORD2
+getDisplayYSize	KEYWORD2
+preserveColours	KEYWORD2
+restoreColours	KEYWORD2
+updatingScreen	KEYWORD2
+finishedUpdatingScreen	KEYWORD2
+withinBounds	KEYWORD2
+displayNumFormat	KEYWORD2
+calculate_x	KEYWORD2
+calculate_y	KEYWORD2
+drawAngledLine	KEYWORD2
+startTimer	KEYWORD2
+stopTimer	KEYWORD2
+restartTimer	KEYWORD2
+addButton	KEYWORD2
+addTextInput	KEYWORD2
+drawTextInputText	KEYWORD2
+drawTextInput	KEYWORD2
+updateTextInput		KEYWORD2
+addCheckBox	KEYWORD2
+drawCheckBox	KEYWORD2
+addCycleButton	KEYWORD2
+drawCycleButton	KEYWORD2
+drawButton	KEYWORD2
+checkButton	KEYWORD2
+checkAllButtons	KEYWORD2
+addPanel	KEYWORD2
+drawPanel	KEYWORD2
+addLabel	KEYWORD2
+drawLabel	KEYWORD2
+addShape	KEYWORD2
+drawShape	KEYWORD2
+addImage	KEYWORD2
+drawImage	KEYWORD2
+addAnalogueClock	KEYWORD2
+drawAnalogueClock	KEYWORD2
+addDigitalClock_Time	KEYWORD2
+drawDigitalClock_Time	KEYWORD2
+addDigitalClock_Date	KEYWORD2
+drawDigitalClock_Date	KEYWORD2
+drawHands	KEYWORD2
+drawAnalogueClock_dividers	KEYWORD2
+setObjectTime	KEYWORD2
+setObjectDate	KEYWORD2
+clearAllObjects		KEYWORD2
+redrawAllObjects	KEYWORD2
+redrawChangedObjects	KEYWORD2
+redrawObject	KEYWORD2
+clearRectObject	 	KEYWORD2
+makeObjectInvisible	KEYWORD2
+makeObjectVisible	KEYWORD2
+DueGUI_tickHandler KEYWORD2
+clearObjectArea	 	KEYWORD2
+objectVisible	KEYWORD2
+drawSingleKey	KEYWORD2
+makePopUp	KEYWORD2
+clearPopUp	KEYWORD2
+returnBoolValue 		KEYWORD2
+returnIntValue		KEYWORD2
+returnStringValue	KEYWORD2
+findObjectByURN	 	KEYWORD2
+HandleShowButtons 	KEYWORD2
+HandleShowLoop 		KEYWORD2
+showCalibrate 		KEYWORD2
+
+CTE50	KEYWORD2
+CTE70	KEYWORD2
+
+GUIobject_type	LITERAL1
+GUIobject_link	LITERAL1
+GUIobject_linkoption	LITERAL1
+GUIobject_UniqueReference	LITERAL1
+GUIobject_x	LITERAL1
+GUIobject_y	LITERAL1
+GUIobject_xs	LITERAL1
+GUIobject_ys	LITERAL1
+GUIobject_xo	LITERAL1
+GUIobject_yo	LITERAL1
+GUIobject_colour	LITERAL1
+GUIobject_borcolour	LITERAL1
+GUIobject_textcolour	LITERAL1
+GUIobject_pressedcolour	LITERAL1
+GUIobject_pressedtextcolour	LITERAL1
+GUIobject_borwidth	LITERAL1
+GUIobject_font	LITERAL1
+GUIobject_top	LITERAL1
+GUIobject_currentstate	LITERAL1
+GUIobject_visible	LITERAL1
+GUIobject_changed	LITERAL1
+GUIobject_data1	LITERAL1
+GUIobject_data2	LITERAL1
+GUIobject_data3	LITERAL1
+GUIobject_data4	LITERAL1
+GUIobject_data5	LITERAL1
+GUIobject_data6	LITERAL1
+GUIobject_Stringdata1	LITERAL1
+GUI_objects	LITERAL1
+GUI_br	LITERAL1
+GUI_bg	LITERAL1
+GUI_bb	LITERAL1
+GUI_fr	LITERAL1
+GUI_fg	LITERAL1
+GUI_Fb	LITERAL1
+touch_x_left	LITERAL1
+touch_x_right	LITERAL1
+touch_y_top	LITERAL1
+touch_y_bottom	LITERAL1
+touch_disp_x_size	LITERAL1
+touch_disp_y_size	LITERAL1
+set_rs	LITERAL1
+set_wr	LITERAL1
+set_rst	LITERAL1
+set_cs	LITERAL1
+anyClockVisible	LITERAL1
+anyButtonPressed	LITERAL1
+GUI_popupactive	LITERAL1
+GUI_popupobject	LITERAL1
+GUI_popupkeyoffset	LITERAL1
+GUI_popupclearedwith	LITERAL1
+GUI_xoffset	LITERAL1
+GUI_yoffset	LITERAL1
+GUI_xsize	LITERAL1
+GUI_ysize	LITERAL1
+
+
+BVS_13	LITERAL1
+BVS_15	LITERAL1
+BVS_19	LITERAL1
+BVS_22	LITERAL1
+BVS_28	LITERAL1
+BVS_34	LITERAL1
+BVS_43	LITERAL1
+BVS_52	LITERAL1
+BVS_74	LITERAL1
+BVS_112	LITERAL1
+
+clrRed	LITERAL1
+clrGreen	LITERAL1
+clrBlue	LITERAL1
+clrWhite	LITERAL1
+clrBlack	LITERAL1
+clrYellow	LITERAL1
+clrCyan	LITERAL1
+
+posLeft	LITERAL1
+posRight	LITERAL1
+posCentre	LITERAL1
+posAuto	LITERAL1
+posTop	LITERAL1
+posBottom	LITERAL1
+
+LEFT	LITERAL1
+RIGHT	LITERAL1
+CENTRE	LITERAL1
+
+cycYN	LITERAL1
+cycYESNO	LITERAL1
+cycCHECKBOX	LITERAL1
+
+visible	LITERAL1
+invisible	LITERAL1
+
+shapeRectangle	LITERAL1
+shapeRectangle_FILL	LITERAL1
+
+maxobjects	LITERAL1
+stateDrawn	LITERAL1
+statePressed	LITERAL1
+popupbuttonstart	LITERAL1
+GUI_buttonchar_font	LITERAL1
+GUI_singlechar_center_x	LITERAL1
+GUI_singleline_center_y	LITERAL1
+
+
+GUI_Type_void	LITERAL1
+GUI_Type_button	LITERAL1
+GUI_Type_panel	LITERAL1
+GUI_Type_numberpad	LITERAL1
+GUI_Type_image	LITERAL1
+GUI_Type_label	LITERAL1
+GUI_Type_anaClock	LITERAL1
+GUI_Type_digDat	LITERAL1
+GUI_Type_digTime	LITERAL1
+GUI_Type_checkBox	LITERAL1
+GUI_Type_cycleButton	LITERAL1
+
+GUI_State_Unpressed	LITERAL1
+GUI_State_Pressed	LITERAL1
+
+
+GUI_link_INC	LITERAL1
+GUI_link_DEC	LITERAL1
+GUI_link_ZERO	LITERAL1
+
+
+PORTRAIT	LITERAL1
+LANDSCAPE	LITERAL1
+PREC_LOW	LITERAL1
+
+PREC_MEDIUM	LITERAL1
+PREC_HI	LITERAL1
+PREC_EXTREME	LITERAL1
+
+
+HX8347A	LITERAL1
+
+ILI9327	LITERAL1
+
+SSD1289	LITERAL1
+
+ILI9325C	LITERAL1
+
+ILI9325D_8	LITERAL1
+
+ILI9325D_16	LITERAL1
+
+HX8340B_8	LITERAL1
+
+HX8340B_S	LITERAL1
+
+HX8352A	LITERAL1
+
+ST7735	LITERAL1
+
+PCF8833	LITERAL1
+
+S1D19122	LITERAL1
+
+HX8352A	LITERAL1
+
+SSD1963_480	LITERAL1
+
+SSD1963_800	LITERAL1
+
+S6D1121_8	LITERAL1
+
+S6D1121_16	LITERAL1
+
+
+
+ITDB32	LITERAL1
+
+ITDB32WC	LITERAL1
+
+TFT01_32W	LITERAL1
+
+ITDB32S	LITERAL1
+
+TFT01_32	LITERAL1
+
+ITDB24	LITERAL1
+
+ITDB24D	LITERAL1
+
+ITDB24DWOT	LITERAL1
+
+ITDB28	LITERAL1
+
+TFT01_24_8	LITERAL1
+
+TFT01_24_16	LITERAL1
+
+ITDB22	LITERAL1
+
+ITDB22SP	LITERAL1
+
+ITDB32WD	LITERAL1
+
+ITDB18SP	LITERAL1
+
+LPH9135	LITERAL1
+
+ITDB25H	LITERAL1
+
+TFT01_32WD	LITERAL1
+
+ITDB43	LITERAL1
+
+ITDB50	LITERAL1
+
+ITDB24E_8	LITERAL1
+
+ITDB24E_16	LITERAL1
+
